@@ -29,7 +29,7 @@ One project at a time.
 
 ```
 LOCATION  ·  Mysuru, India
-FOCUS     ·  Web Dev, Embedded Systems
+FOCUS     ·  Web Dev
 CURRENTLY ·  Building cool things
 OPEN TO   ·  Collaborations, internships
 ```
